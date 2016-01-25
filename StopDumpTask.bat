@@ -1,0 +1,1 @@
+schtasks /end /s /tn <task name>
